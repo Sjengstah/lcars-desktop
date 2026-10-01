@@ -4,8 +4,16 @@ A Star Trek LCARS look for KDE Plasma 6: a global theme, a system monitor widget
 a control center, a notification center with LCARS popups, a Meta+G audio overlay,
 an icon set and an LCARS fastfetch, plus a script that sets it all up.
 
-<!-- Screenshot: put one at docs/screenshot.png and uncomment the line below -->
-<!-- ![LCARS desktop](docs/screenshot.png) -->
+![LCARS desktop with the System Monitor](docs/LCARS1.png)
+
+| Control Center | Notification Center |
+|---|---|
+| ![Control Center](docs/LCARS2.png) | ![Notification Center](docs/LCARS3.png) |
+| **Audio overlay (Meta+G)** | **LCARS notification popups** |
+| ![Audio overlay](docs/LCARS4.png) | ![Notification popups](docs/LCARS5.png) |
+
+<sub>The wallpaper in the screenshots is not included (it isn't mine to share). The two
+round gauges in the top panel are a separate third-party widget, also not included.</sub>
 
 ---
 
